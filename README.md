@@ -42,3 +42,7 @@ Para executar localmente:
 ## Considerações finais
 
 Este projeto representa uma etapa do meu aprendizado em desenvolvimento web, permitindo praticar conceitos, testar códigos e desenvolver minha experiência com HTML, CSS e JavaScript.
+
+## Demonstração do projeto
+
+![Captura de tela do site](img/captura-site.png)
